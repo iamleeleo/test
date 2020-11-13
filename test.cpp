@@ -3,6 +3,7 @@ int main(){
 
 	std::cout<<"test";
 	std::cout<<"abcd";
+	std::cout<<"testststst";
 	std::cin.get();
 	return 0;	        	
 }
